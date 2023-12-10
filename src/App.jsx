@@ -79,7 +79,7 @@ export default function App() {
             placeholder="Write Task"
             value={taskInput}
             onChange={handleTaskInputChange}
-            className="bg-lightGray w-48 truncate rounded-l-full pl-6 pr-2 text-sm md:w-80"
+            className="bg-lightGray w-44 truncate rounded-l-full pl-6 pr-2 text-sm md:w-80"
           />
           <button
             id="task-button"
